@@ -17,4 +17,4 @@ git push -f origin master
 ```
 
 ## How to view
-Go to [https://deletium.com](https://deletium.com)
+Go to [http://deletium.com](http://deletium.com)
