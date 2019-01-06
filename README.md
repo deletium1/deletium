@@ -13,6 +13,7 @@ git clone git@github.com:deletium/deletium.git
 cd deletium
 git reset HEAD~1
 git checkout .
+rm docs/*
 cp theFileYouWantToServe.html docs/index.html
 git add docs/index.html
 git commit -m"some note about your change"
