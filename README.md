@@ -5,6 +5,9 @@
 This is a collaborative educational project. Show some respect to
 previous additions before updating with your contribution.
 
+First, [create a github account](https://github.com/join) and ask to
+be added as a collaborator.
+
 ```
 git clone git@github.com:deletium/deletium.git
 cd deletium
