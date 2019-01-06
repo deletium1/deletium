@@ -15,3 +15,6 @@ git add docs/index
 git commit -m"some note about your change"
 git push -f origin master
 ```
+
+## How to view
+Go to [https://deletium.com](https://deletium.com)
