@@ -10,8 +10,8 @@ git clone git@github.com:deletium/deletium.git
 cd deletium
 git reset HEAD~1
 git checkout .
-cp theFileYouWantToServe docs/index
-git add docs/index
+cp theFileYouWantToServe.html docs/index.html
+git add docs/index.html
 git commit -m"some note about your change"
 git push -f origin master
 ```
